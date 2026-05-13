@@ -37,7 +37,7 @@ Each level presents a non-functioning network diagram with hosts, switches, rout
 
 - After solving each level, click **Get my config** to download the configuration file.
 - Place all 10 exported configuration files at the **root of your Git repository**.
-- Make sure your intranet login is entered before exporting — Moulinette uses it to identify your configuration.
+- Make sure your intranet login is entered before exporting.
 
 ### Submission details
 
@@ -70,6 +70,4 @@ Each level presents a non-functioning network diagram with hosts, switches, rout
 
 Claude (claude.ai) was used as a learning assistant throughout this project. Specifically:
 - To understand networking concepts from first principles (IP addressing, subnetting, routing tables, OSI layers, TCP/UDP, etc.)
-- To debug incorrect configurations by analysing log output and identifying routing issues
-- To verify subnet calculations and check for overlapping networks
-- The actual solving of each level and all configuration decisions were made by the student.
+
